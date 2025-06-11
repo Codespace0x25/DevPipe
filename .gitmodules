@@ -1,0 +1,6 @@
+[submodule "forgewatch"]
+	path = forgewatch
+	url = https://github.com/Codespace0x25/forgewatch
+[submodule "template"]
+	path = template
+	url = https://github.com/Codespace0x25/template
